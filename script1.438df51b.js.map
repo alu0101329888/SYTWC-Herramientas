@@ -1,0 +1,1 @@
+{"version":3,"sources":["../js/script1.js"],"names":["main","alert"],"mappings":";AAAA,aAEA,SAASA,IACPC,MAAM,4CAGRD","file":"script1.438df51b.js","sourceRoot":"../src/html","sourcesContent":["'use strict'\n\nfunction main() {\n  alert(\"The script 1 has been loaded successfuly\")\n}\n\nmain();"]}
