@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["require","console","log"],"mappings":";;;AAC2B,aAD3BA,QAAA,iBACAC,QAAQC,IAAI","file":"src.c12a980c.js","sourceRoot":"../src","sourcesContent":["import \"./styles.scss\";\nconsole.log(\"hello world!\");"]}
